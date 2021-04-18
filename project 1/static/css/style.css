@@ -1,0 +1,29 @@
+.name a{
+    background-color:darkolivegreen;
+    color: white;
+    border: 2px solid white;
+    margin: 20px;
+    padding: 20px;
+}
+
+.name p{
+        color: red;
+        font-size: xx-large;
+        text-align: center;
+
+}
+   
+.name a{
+    font-size: 15px;;
+    color:rgb(218, 21, 21);
+    background-color: black;
+    border: 2px solid rgb(31, 30, 30) ;
+}
+
+table,td,th{
+    text-align: center;
+    border-bottom: 1px solid #ddd;
+    border:1px solid rgb(23, 23, 24);
+    padding: 15px;
+    border-spacing: 1px;
+}
